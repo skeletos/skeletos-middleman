@@ -1,10 +1,4 @@
-         oooo                  oooo                .                      
-         `888                  `888              .o8                      
- .oooo.o  888  oooo   .ooooo.   888   .ooooo.  .o888oo  .ooooo.   .oooo.o 
-d88(  "8  888 .8P'   d88' `88b  888  d88' `88b   888   d88' `88b d88(  "8 
-`"Y88b.   888888.    888ooo888  888  888ooo888   888   888   888 `"Y88b.  
-o.  )88b  888 `88b.  888    .o  888  888    .o   888 . 888   888 o.  )88b 
-8""888P' o888o o888o `Y8bod8P' o888o `Y8bod8P'   "888" `Y8bod8P' 8""888P'
+Skeletos Middleman
 
 ======================
 
